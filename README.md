@@ -1,0 +1,1 @@
+# Szalloda.py
